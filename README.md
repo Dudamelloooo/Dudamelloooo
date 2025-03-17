@@ -58,17 +58,3 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
     </td>
   </tr>
 </table>
-
-## Contato
-
-Se precisar de algo ou quiser colaborar em um projeto, me chama!
-
-<form class="grid">
-  <input type="text" id="nome" name="nome" placeholder="Seu nome" aria-label="Nome" required>
-  <input type="email" id="email" name="email" placeholder="Seu email" aria-label="Email" required>
-  <button type="submit" onclick="event.preventDefault()">Enviar</button>
-</form>
-
-## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duda%20Mello-blue)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Duda%20Mello-black)](https://github.com/Dudamelloooo)
