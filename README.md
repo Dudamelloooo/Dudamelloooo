@@ -6,8 +6,7 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 
 ## Linguagens e Tecnologias:
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" width="80">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="80">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="80">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="80">
@@ -18,3 +17,4 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="80">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="80">
 </p>
+
