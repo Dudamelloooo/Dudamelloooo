@@ -6,36 +6,69 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 
 ## Linguagens e Tecnologias:
 
-### C
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-icon.svg" alt="C" width="80">
+      <br><strong>C</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" width="80">
+      <br><strong>C#</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="80">
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="80">
+      <br><strong>CSS</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="80">
+      <br><strong>JavaScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="80">
+      <br><strong>Vue.js</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="80">
+      <br><strong>React</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="80">
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80">
+      <br><strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="80">
+      <br><strong>PHP</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="80">
+      <br><strong>Java</strong>
+    </td>
+  </tr>
+</table>
 
-### C#
-![C#](https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg)
+## Contato
 
-### HTML
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+Se precisar de algo ou quiser colaborar em um projeto, me chama!
 
-### CSS
-![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+<form class="grid">
+  <input type="text" id="nome" name="nome" placeholder="Seu nome" aria-label="Nome" required>
+  <input type="email" id="email" name="email" placeholder="Seu email" aria-label="Email" required>
+  <button type="submit" onclick="event.preventDefault()">Enviar</button>
+</form>
 
-### JavaScript
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-
-### Vue.js
-![Vue.js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)
-
-### React
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-
-### MySQL
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-
-### Git
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-
-### PHP
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-
-### Java
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-
-Feel free to reach out if you have any questions or want to collaborate on a project!
+## Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duda%20Mello-blue)](https://www.linkedin.com/in/seu-perfil/)
+[![GitHub](https://img.shields.io/badge/GitHub-Duda%20Mello-black)](https://github.com/Dudamelloooo)
